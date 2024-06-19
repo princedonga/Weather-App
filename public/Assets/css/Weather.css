@@ -1,0 +1,41 @@
+.bg{
+    background-image: url("https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?cs=srgb&dl=pexels-pixabay-36717.jpg&fm=jpg");
+  background-size: cover;
+   height: 100vh;
+    background-repeat: no-repeat;
+}
+.back{
+
+    padding-top: 100px !important;
+}
+.bg1{
+    background-image: url('https://i.pinimg.com/originals/71/13/f4/7113f42cfe373e1900e2ef9ff73fde77.png');
+    background-size: cover;
+   height: 100vh;
+    background-repeat: no-repeat;
+
+  }
+.background{
+    backdrop-filter: blur(10px);
+}
+.logo{
+    width: 10%;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+tr{
+    border-bottom: 1px solid #ccc;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+   border-bottom: 1px solid #ccc;
+}
+ul li{
+    cursor: pointer;
+}
